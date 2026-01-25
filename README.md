@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Etienne-VG
-- 👀 I’m interested in Empirical Macroeconomics (time series, semi-structural models, term structure modeling etc.)
 - 🌱 I’m currently an Economist at the International Monetary Fund
 
 <!---
